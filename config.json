@@ -1,0 +1,9 @@
+{
+	"ip":"SolaqrSMP.aternos.me",
+	"port": 57077,
+	"name": "ServerBot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (UrMom123) (UrMom12)",
+	"login-cmd":"/login (UrMom123)"
+}
